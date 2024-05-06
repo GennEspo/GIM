@@ -44,4 +44,6 @@ prova_4
     
 commento
     https://github.com/GennEspo/GIM/blob/main/Esercizio_1C/README.md
+
+https://gennespo.github.io/GIM/Esercizio_2/esercizio_2.html
     
