@@ -47,6 +47,7 @@ commento
 
 # esercizio 2
    
+   dittico
    https://gennespo.github.io/GIM/Esercizio_2/esercizio_2.html
 
 # esercizio 3A
