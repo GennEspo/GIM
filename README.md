@@ -46,7 +46,8 @@ commento
     https://github.com/GennEspo/GIM/blob/main/Esercizio_1C/README.md
 
 # esercizio 2
-    https://gennespo.github.io/GIM/Esercizio_2/esercizio_2.html
+   
+   https://gennespo.github.io/GIM/Esercizio_2/esercizio_2.html
 
 # esercizio 3A
    
@@ -54,7 +55,7 @@ orologio analogico
     https://gennespo.github.io/GIM/Esercizio_3A/orologio_analogico/index.html
 
 orologio digitale spaziale
-        https://gennespo.github.io/GIM/Esercizio_3A/orologio_digitale_spaziale/index.html
+    https://gennespo.github.io/GIM/Esercizio_3A/orologio_digitale_spaziale/index.html
 
 app web
     https://gennespo.github.io/GIM/Esercizio_3A/template_web_app/index.html
@@ -63,6 +64,12 @@ app web
 
 pong
     https://gennespo.github.io/GIM/Esercizio_3B/esempio_2/
+
+pioggia
+    https://gennespo.github.io/GIM/Esercizio_3B/pioggia/index.html
+
+neve
+    https://gennespo.github.io/GIM/Esercizio_3B/neve/index.html
 
 
 
