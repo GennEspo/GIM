@@ -1,23 +1,3 @@
 # Esercizio 3A
-Che ora è?
-
-## Brief
-Progettare un nuovo tipo di orologio.  
-L’orologio è l’oggetto cinetico per eccellenza; individuare un aspetto intrigante (tecnico, funzionale, ironico, surreale o formale) e programmare un prototipo funzionante.  
-
-## Bonus
-- L’applicazione è anche una “web app” per mobile
-
-## Restrizioni
-- Nessuna 
-
-#### Consegna
-Cartella contenente un file .html con un orologio funzionante.
-Pubblicare l’esercizio sulla piattaforma GitHub e pubblicare il link a github.io sul file README.md principale per un accesso diretto al progetto.
-
-## Struttura cartella
-```
-GIM/esercizio_3A
-	index.html  
-	...
-``` 
+Orologio Spaziale
+Ho deciso di progettare un orologio spaziale, un orologio che ti mostrasse in tempo reale l'ora non solo sul pianeta Terra ma acnhe sugli altri pianeti della nostra galassia. Purtroppo al momento ho potuto implementare solo il pianeta Marte poichè è l'unico ad oggi sul quale siamo riusciti a determinare un calendario. In realtà ho visto che non esiste una convenzione universale per il calendario marziano, ho quindi deciso di utilizzare il più comune il calendario Dariano, ideato da Thomas Gangale, nel quale il tempo è espresso in sol( giorni marziani). Ho poi cercato di creare un interfaccia spaziale pulita e interessante, mi sarebbe piaciuto spingermi oltre ma le mie conoscenze sonmo ancora troppo limitate. 

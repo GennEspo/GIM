@@ -36,9 +36,9 @@ function draw() {
 
 	// background(200)
 
-	fill(frameCount % 2 * 255)
+	fill(frameCount % 2 * 255, 255, 255)
 	noStroke()
 
 	rectMode(CENTER)
-	rect(posizioneX, posizioneY, (sin(frameCount*0.1) * 0.5 + 0.5) * 200 + 10)
+	rect(posizioneX, posizioneY, (sin(frameCount*0.5) * 0.1 + 0.1) * 100 + 50)
 }
