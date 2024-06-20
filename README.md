@@ -28,16 +28,10 @@ spostamento_3
 
 # esercizio 1b
     
-dittico
+dittico_1
     https://gennespo.github.io/GIM/Esercizio_1B/template/indexA.html
 
-prova_2
-    https://gennespo.github.io/GIM/Esercizio_1B/template/indexB.html
-
-prova_3
-    https://gennespo.github.io/GIM/Esercizio_1B/template/indexC.html
-
-prova_4
+dittico_2
     https://gennespo.github.io/GIM/Esercizio_1B/template/indexD.html
 
 # esercizio 1c
