@@ -28,7 +28,7 @@ spostamento_3
 
 # esercizio 1b
     
-prova_1
+dittico
     https://gennespo.github.io/GIM/Esercizio_1B/template/indexA.html
 
 prova_2
@@ -47,7 +47,7 @@ commento
 
 # esercizio 2
    
-   dittico
+   parola
    https://gennespo.github.io/GIM/Esercizio_2/esercizio_2.html
 
 # esercizio 3A
