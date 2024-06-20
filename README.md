@@ -1,6 +1,6 @@
 # GIM
 Corso di Grafica in movimento, SUPSI, 2024
-# Esercizio 1a
+# esercizio 1a
 
 acceso_spento_2
     https://gennespo.github.io/GIM/Esercizio_1A/acceso_spento_2.html
@@ -45,5 +45,27 @@ prova_4
 commento
     https://github.com/GennEspo/GIM/blob/main/Esercizio_1C/README.md
 
-https://gennespo.github.io/GIM/Esercizio_2/esercizio_2.html
-    
+# esercizio 2
+    https://gennespo.github.io/GIM/Esercizio_2/esercizio_2.html
+
+# esercizio 3A
+   
+orologio analogico
+    https://gennespo.github.io/GIM/Esercizio_3A/orologio_analogico/index.html
+
+orologio digitale spaziale
+        https://gennespo.github.io/GIM/Esercizio_3A/orologio_digitale_spaziale/index.html
+
+app web
+    https://gennespo.github.io/GIM/Esercizio_3A/template_web_app/index.html
+
+# esercizio 3B
+
+pong
+    https://gennespo.github.io/GIM/Esercizio_3B/esempio_2/
+
+
+
+
+
+
